@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+
+# Python env files
+.env.*
+*.env
+
+# Compiled C extensions
+*.so
+
+# IDEs
+.idea/
+*.iml
+
+# Local dev artifacts
+*.db
+*.bak
+*.swp
+*.tmp
+*.orig
+*.log
+
+# Uvicorn reload temp files
+reload.*.tmp
